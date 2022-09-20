@@ -2,19 +2,19 @@
 
 ![zkGamesRepoImage](https://user-images.githubusercontent.com/52170174/164951489-8f3d9b0a-4334-4dfb-b0d6-b6a87ff81424.png)
 
-zkGames is a platform that allows users to play zk (zero knowledge) games and mint an NFT as proof that they have won.
+GamesStore is a platform that allows users to play zk (zero knowledge) games and mint an NFT as proof that they have won.
 
 <!-- The project is currently on [Harmony Testnet](https://explorer.pops.one/) and the frontend is hosted on [Vercel](https://github.com/vercel/vercel). -->
 
-The project is currently on [Harmony Mainnet](https://explorer.harmony.one/) and the frontend is hosted on [Vercel](https://github.com/vercel/vercel).
+The project is currently on [EVMOS testnet](https://explorer.harmony.one/) and the frontend is hosted on [Vercel](https://github.com/vercel/vercel).
 
-zkGames has 3 games so far: Futoshiki, Skyscrapers and Sudoku.
+GamesStore has 3 games so far: Futoshiki, Skyscrapers and Sudoku.
 
-zkGames Link:
+GamesStoreLink:
 
-<https://zkgames.one/>
+<https://games-store-two.vercel.app/>
 
-zkGames Demo Video:
+GamesStoreDemo Video:
 
 <https://youtu.be/EpeK3WzmS8Y>
 
@@ -31,7 +31,7 @@ zkGames Demo Video:
   - [Run contracts](#run-contracts)
   - [Run zkgames-ui](#run-zkgames-ui)
 - [Steps to Add a New Game](#steps-to-add-a-new-game)
-- [Some Images of the zkGames Application](#some-images-of-the-zkgames-application)
+- [Some Images of the GamesStoreApplication](#some-images-of-the-zkgames-application)
   - [Initial page](#initial-page)
   - [Futoshiki Game](#futoshiki-game)
   - [Skyscrapers Game](#skyscrapers-game)
@@ -49,23 +49,23 @@ The project has three main folders:
 
 The [circuits folder](/circuits/) contains all the circuits used in zkGames.
 
-To learn more about the zkGames circuits, read the [README file](/circuits/README.md) inside the `circuits` folder.
+To learn more about the GamesStorecircuits, read the [README file](/circuits/README.md) inside the `circuits` folder.
 
 ### contracts
 
 The [contracts folder](/contracts/) contains all the smart contracts used in zkGames.
 
-To learn more about the zkGames smart contracts, read the [README file](/contracts/README.md) inside the `contracts` folder.
+To learn more about the GamesStoresmart contracts, read the [README file](/contracts/README.md) inside the `contracts` folder.
 
 ### zkgames-ui
 
-The [zkgames-ui folder](/zkgames-ui/) contains the zkGames frontend.
+The [zkgames-ui folder](/zkgames-ui/) contains the GamesStorefrontend.
 
-To learn more about the zkGames frontend, read the [README file](/zkgames-ui/README.md) in the `zkgames-ui` folder.
+To learn more about the GamesStorefrontend, read the [README file](/zkgames-ui/README.md) in the `zkgames-ui` folder.
 
 ## Zero Knowledge Structure
 
-The following graphic shows the structure of the most important zero knowledge elements of the zkGames project.
+The following graphic shows the structure of the most important zero knowledge elements of the GamesStoreproject.
 
 ```text
 ├── circuits
@@ -182,7 +182,7 @@ Steps to follow to add a new game (in each step you can check how is done with t
  }
 ```
 
-## Some Images of the zkGames Application
+## Some Images of the GamesStoreApplication
 
 ### Initial page
 
