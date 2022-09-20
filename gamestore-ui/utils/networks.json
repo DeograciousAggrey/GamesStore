@@ -1,5 +1,5 @@
 {
-  "selectedChain": "80001",
+  "selectedChain": "9000",
   "1337": {
     "chainId": "1337",
     "chainName": "Localhost 8545",
@@ -17,6 +17,16 @@
       "symbol": "MATIC"
     },
     "blockExplorerUrls": ["https://mumbai.polygonscan.com/"]
+  },
+
+  "9000": {
+    "chainId": "9000",
+    "chainName": "Evmos Testnet",
+    "rpcUrls": ["https://eth.bd.evmos.dev:8545"],
+    "nativeCurrency": {
+      "symbol": "tEVMOS"
+    },
+    "blockExplorerUrls": ["https://evm.evmos.dev"]
   },
   "1666700000": {
     "chainId": "1666700000",
