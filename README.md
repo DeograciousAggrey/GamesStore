@@ -16,7 +16,7 @@ GamesStoreLink:
 
 GamesStoreDemo Video:
 
-<https://youtu.be/EpeK3WzmS8Y>
+<https://youtu.be/xzd4vLtB8Lc>
 
 ## Table of Contents <!-- omit in toc -->
 
